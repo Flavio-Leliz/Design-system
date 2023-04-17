@@ -1,0 +1,4 @@
+{
+    "extends": "@flavio-ui/ts-config/react.json",
+    "include": ["src"]
+  }
